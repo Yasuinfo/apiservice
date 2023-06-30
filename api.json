@@ -1,0 +1,12 @@
+{
+  "error": 200,
+  "sucess": 201,
+  "message": "login success",
+  "yasuappstudio": [
+    {
+      "apikey": "yasin",
+      "appupdate": "false",
+      "message": "Welcome To Yasu Ai"
+    }
+  ]
+}
